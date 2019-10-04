@@ -25,3 +25,4 @@ client.update('My first twwet in Ruby !!!!')
 
   * REST call to an API
   * Make safe his tokens (dotenv)
+  * Have fun with ruby :smile:
